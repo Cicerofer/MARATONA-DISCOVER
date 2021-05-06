@@ -3,28 +3,13 @@
 
 
 
-<h1 align="center"> MARATONA-DISCOVER</h1>
-			
-		
-					
-				
-				
-        
-   
- 
+  <h1> MARATONA-DISCOVER</h1>
+
+<a href= "https://github.com/Cicerofer/MARATONA-DISCOVER/blob/main/img/dev.finaces.png" targt="_blank "> <img src="https://github.com/Cicerofer/MARATONA-DISCOVER/blob/main/img/dev.finaces.png" width="600" height="300"  ></a>
 
 
 
 
-
-
-
-
-
-
-
-
-![dev.financeiro](https://github.com/Cicerofer/MARATONA-DISCOVER/blob/main/img/dev.finaces.png)
 
 
 
